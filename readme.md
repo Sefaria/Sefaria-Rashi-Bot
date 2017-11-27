@@ -1,6 +1,12 @@
 # Sefaria Rashi Bot
 This repo is a basic Slack Bot built during [Sefaria's recent Israeli Hackathon](https://www.timesofisrael.com/with-cholent-and-prayers-haredim-bring-tech-to-study-of-ancient-texts/).
 
+Basic install is:
+
+```git clone https://github.com/Sefaria/Sefaria-Rashi-Bot.git
+cd rashibot
+npm install```
+
 It relies heavily on Botkit, who's readme follows below.
 
 
