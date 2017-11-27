@@ -3,9 +3,9 @@ This repo is a basic Slack Bot built during [Sefaria's recent Israeli Hackathon]
 
 Basic install is:
 
-```git clone https://github.com/Sefaria/Sefaria-Rashi-Bot.git
-cd rashibot
-npm install```
+`git clone https://github.com/Sefaria/Sefaria-Rashi-Bot.git`
+`cd rashibot`
+`npm install`
 
 It relies heavily on Botkit, who's readme follows below.
 
